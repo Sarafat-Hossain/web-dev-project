@@ -134,3 +134,32 @@ opacity: 0.7;
 padding: 12px 20px;
 background-color: rgb(255, 255, 255);
 }
+.new-one{
+  margin: 90px 152px 0px 148px;
+  display: flex;
+flex-direction: column;
+justify-content: flex-start;
+align-items: center;
+padding: 0px;  
+}
+.new-head-one{
+  font-weight: 800;
+  font-size: 32px;
+  color: #0D1321;
+}
+.new-para-one{
+  font-weight: 400;
+  font-size: 16px;
+  color: #0D1321; 
+}
+.sub-two{
+  box-sizing: border-box;
+border: 1px solid rgba(13, 19, 33, 0.2);
+border-radius: 16px;
+margin-top: 48px;
+padding: 32px;
+}
+.vid{
+  border-radius: 16px;
+  margin: 10px 0px;
+}
