@@ -163,3 +163,116 @@ padding: 32px;
   border-radius: 16px;
   margin: 10px 0px;
 }
+.tea{
+  margin: 150px 150px 0px 150px;
+}
+.pic-block{
+  margin-top: 48px;
+  display: flex;
+  justify-content: space-around;
+}
+.mark-ten{
+  padding: 40px;
+  border-radius: 16px;
+  background: rgba(255, 76, 30, 0.05);
+  margin-right: 24px;
+}
+.head-ten{
+  font-weight: 800;
+  font-size: 24px;
+  color: #0D1321;
+}
+.para-ten{
+  font-weight: 400;
+  font-size: 16px;
+  color: #0D1321;
+}
+.link-ten{
+  font-weight: 700;
+  font-size: 16px;
+  color: #0D1321;
+}
+.style-ten{
+  border-radius: 16px;
+background: rgba(0, 76, 232, 0.05);
+padding: 40px;
+}
+.code-ten{
+  border-radius: 16px;
+padding: 40px;
+background: rgba(255, 223, 0, 0.05);
+margin-left: 24px;
+}
+.current-target{
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  padding: 0px;
+}
+.current-target-head{
+font-weight: 800;
+font-size: 32px;
+color: #0D1321;
+}
+.current-target-line{
+font-weight: 400;
+font-size: 16px;
+color: #0D1321;
+}
+.next-target{
+margin: 111px 0px 0px 0px;
+display: flex;
+flex-direction: column;
+justify-content: flex-start;
+align-items: center;
+padding: 0px;
+}
+.next-target-head{
+  font-weight: 800;
+  font-size: 32px;
+  color: #0D1321;
+}
+.next-target-line{
+  font-weight: 400;
+  font-size: 16px;
+  color: #0D1321;
+}
+.react{
+box-sizing: border-box;
+border: 1px solid rgba(13, 19, 33, 0.15);
+border-radius: 16px;
+padding: 40px;
+background: rgb(255, 255, 255);
+display: flex;
+flex-direction: row;
+justify-content: flex-start;
+align-items: center;
+margin: 48px 0px 0px 0px;
+}
+.node{
+box-sizing: border-box;
+border: 1px solid rgba(13, 19, 33, 0.15);
+border-radius: 16px;
+background: rgb(255, 255, 255);
+display: flex;
+flex-direction: row;
+justify-content: flex-start;
+align-items: center;
+padding: 40px;
+margin: 24px 0px 0px 0px;
+}
+.mongo{
+box-sizing: border-box;
+border: 1px solid rgba(13, 19, 33, 0.15);
+border-radius: 16px;
+background: rgb(255, 255, 255);
+display: flex;
+flex-direction: row;
+justify-content: flex-start;
+align-items: center;
+padding: 40px;
+margin: 24px 0px 0px 0px;
+}
+
+
