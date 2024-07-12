@@ -274,5 +274,76 @@ align-items: center;
 padding: 40px;
 margin: 24px 0px 0px 0px;
 }
-
+.feedback{
+  margin: 41px 150px 0px 150px;
+  border-radius: 16px;
+  background-image: url('../assets/handshake.jpg');
+  padding: 64px 48px;
+  display: flex;
+flex-direction: column;
+justify-content: flex-start;
+align-items: center;
+}
+.feedback-head{
+font-weight: 700;
+font-size: 32px;
+color: #FFFFFF;
+}
+.feedback-line{
+  font-weight: 400;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+.info{
+  display: flex;
+flex-direction: row;
+justify-content: flex-start;
+align-items: flex-start;
+padding: 0px;
+margin-top: 24px;
+}
+.info-text{
+  box-sizing: border-box;
+border-radius: 8px;
+background: rgb(255, 255, 255);
+margin: 0px 16px;
+padding: 19px 215px 19px 20px;
+width: 548px;
+height: 57px;
+border: none;
+font-weight: 400;
+font-size: 16px;
+color: #0D1321;
+}
+.info-btn{
+  border-radius: 8px;
+padding: 17px 20px;
+background: rgb(255, 255, 255);
+border: none;
+font-weight: 600;
+font-size: 20px;
+color: #0D1321;
+}
+.foot{
+border-radius: 16px;
+padding: 32px 150px;
+background: rgba(13, 19, 33, 0.03);
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+align-items: center;
+margin-top: 80px;
+}
+.logo{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+}
+.face{
+  margin-right: 24px;
+}
+.hub{
+  margin-right: 24px;
+}
 
